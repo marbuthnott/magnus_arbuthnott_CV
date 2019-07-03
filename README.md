@@ -2,7 +2,7 @@
 
 # Magnus Arbuthnott
 
-[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Personal](#personal) | [LinkedIn](https://www.linkedin.com/in/magnus-arbuthnott-04874a114/)
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Personal](#personal) | [LinkedIn](https://www.linkedin.com/in/magnus-arbuthnott-04874a114/) | [Github](https://github.com/marbuthnott)
 
 <a href="https://sourcerer.io/marbuthnott"><img src="https://img.shields.io/badge/Ruby-225%20commits-blue.svg" alt=""></a>
 <a href="https://sourcerer.io/marbuthnott"><img src="https://img.shields.io/badge/JavaScript-48%20commits-blue.svg" alt=""></a>
