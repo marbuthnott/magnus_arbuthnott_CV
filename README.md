@@ -23,6 +23,15 @@ I am looking for a role where I can pursue the technical skills I have gained at
 
 ## Projects
 
+| **Project**      | **Description**                                                                                                                                                           | **Timeframe** | **Technology**                                       | **Github**                                                      | **Group/Individual** |
+|------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|------------------------------------------------------|-----------------------------------------------------------------|----------------------|
+| Acebook D-Railed | A facebook clone where a user can signup, write, update, and delete posts, and view posts from all users.                                                                 | 10 Days       | Ruby-on-Rails, HTML, CSS, Travis CI, RSpec, Capybara | [Github](https://github.com/marbuthnott/acebook-d-railed)       | Group                |
+| Bank Account     | A rapidly developed bank account app to practice development process and code quality with time pressure. Additionally it was a first venture into using Jest and ESLint. | 1/2 Day       | Javascript, Jasmine, Jest                            | [Github](https://github.com/marbuthnott/bank_account_challenge) | Individual           |
+| News Summary     | An app that grabs the headlines from the Guardian newspaper API and display them on a page. Clicking on a headline will show a summary of the article.                    | 2 Days        | Vanilla JavaScript, HTML, CSS                        | [Github](https://github.com/marbuthnott/news-summary-challenge) | Individual           |
+| Notebook         | A first venture into Vanilla JS to create a simple notebook where the user can create and store notes.                                                                    | 5 Days        | Vanilla JavaScript                                   | [Github](https://github.com/marbuthnott/notes_js)               | Group                |
+| Makers BnB       | A small Air BnB clone that allows users to advertise and book spaces.                                                                                                     | 5 Days        | Ruby, Sinatra, DataMapper, Rspec, Capybara           | [Github](https://github.com/marbuthnott/makers-bnb)             | Group                |
+| Chitter          | A small Twitter clone that will allow the users to post messages to a public stream.                                                                                      | 2 Days        | Ruby, Sinatra, SQL, RSpec, Capybara                  | [Github](https://github.com/marbuthnott/chitter-challenge)      | Individual           |
+
 ## Skills
 
 **Relationship Management**
