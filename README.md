@@ -33,8 +33,8 @@ I am looking for a role where I can pursue the technical skills I have gained at
 
 **Analytical Skills**
 
-- Studying engineering at university has given me a strong grounding in numerical reasoning within a highly practical environment.
-- Graded within the top 10% of a 60-person course in which the focus was to identify and deconstruct varied business problems with intelligence led solutions. Pursuing a career in software development to capitalise on this strength.
+- Studying engineering at university has given me a strong grounding in numerical reasoning within a highly practical environment; this formed the ground work of my pursuit of a career in software engineering, i.e. the practice of building something through logic.
+- Graded within the top 10% of a 60-person course in which the focus was to identify and deconstruct varied business problems with intelligence led solutions.
 
 **Solutions Orientated**
 
@@ -68,18 +68,23 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - RSpec, Jasmine
 
 **Amazon Web Services, re:Start Programme (February 2019 - March 2019)**
-
-- Fundamentals in Agile Methodology, SQL and Python, Digital Web Development, Linux System, Cloud Computing.
+- Fundamentals in Agile Methodology, SQL and Python, Digital Web Development, Linux System, and Cloud Computing.
+- It is a course designed around easing the transition from the military into tech. It provided a working knowledge of DevOps process and AWS Cloud Services, as well as an insight into Cyber Security and AGILE methodologies.
 
 **Royal Military Academy Sandhurst, Regular Commissioning Course (Jan '13 - Apr '14)**
-Focus on Leadership, Strategy & Planning, International Relations, War Studies and Ethics.
+- Focus on Leadership, Strategy & Planning, International Relations, War Studies and Ethics.
 
-#### University of Leeds, BEng Civil Engineering (Jul '08 - Jun '12)
-Broad based Civil Engineering degree specialising in Geotechnics for my finals.
+**University of Leeds, BEng Civil Engineering (Jul '08 - Jun '12)**
+- During my time at the University of Leeds, I engaged in a broad based Civil Engineering degree for my first two years before specialising in Geotechnics for my finals.
+- The broad nature of the degree provided a wide knowledge of not only engineering practices but enhanced analytic abilities across multiple projects. We used AutoCAD software throughout to plan projects.
+
+## Experience
 
 **Veritass Consulting (Oct '18 - Mar '18)**
 *Business Development Internship*
 - Responsible for researching and qualifying new leads for a RegTech consultancy in the early stages of its development.
+- Progressed 2 SaaS startups from cold lead to onboarding for use as regulatory platforms.
+Qualified 3 commercial banks as prospects and involved with the progression of 1 through the sales process.	
 
 **British Army (Jan '13 - May '18)**
 *Captain, Scots Guards (Infantry)*  
