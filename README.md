@@ -10,12 +10,15 @@
 <a href="https://sourcerer.io/marbuthnott"><img src="https://img.shields.io/badge/CSS-77%20commits-blue.svg" alt=""></a>
 
 **Introduction**
+
 Analytically minded and solution driven Junior Developer with over five years' experience within the Armed Forces.
 
 **Background**
+
 After graduating from the University of Leeds with a degree in Civil Engineering, I spent a year at Sandhurst before taking up various team lead positions over the course of four further years in the Army. Between leaving and now I have worked as a business development intern at a flourishing RegTech consultancy and have attended the AWS veterans re:Start program, focused on moving veterans into tech.
 
 **Aspirations**
+
 I am looking for a role where I can pursue the technical skills I have gained at Makers Academy, consolidate my programming knowledge, and gain exposure to product management and business strategy.
 
 ## Projects
@@ -52,11 +55,21 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 **Makers Academy (March 2019 - Present)**
 - Makers Academy is widely regarded as the #1 coding bootcamp in Europe. It takes in motivated but unskilled students and after 12 weeks turns out coders who take jobs as Junior Full Stack Developers at leading Tech firms.
 - The course focuses on self-driven learning, allowing maximum flexibility in the curriculum and allowing the student to drive their progression. It follows underlying frameworks such as TDD, Single Responsibility Principle, and Agile methodologies.
-
-- Frameworks: Object Oriented Programming, Test Driven Development, Model View Controller architecture pattern, Domain Driven Design models.
-- Methodologies: Agile
-- Languages: Ruby, Ruby on Rails, Javascript, CSS
-- Testing Frameworks: RSpec, Jasmine
+- Frameworks:
+  - Object Oriented Programming
+  - Test Driven Development
+  - Model View Controller architecture pattern
+  - Domain Driven Design models.
+- Methodologies:
+  - Agile
+- Languages:
+  - Ruby
+  - Ruby on Rails
+  - Javascript
+  - CSS
+- Testing Frameworks:
+  - RSpec
+  - Jasmine
 
 **Amazon Web Services, re:Start Programme (February 2019 - March 2019)**
 - Fundamentals in Agile Methodology, SQL and Python, Digital Web Development, Linux System, and Cloud Computing.
