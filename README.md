@@ -53,33 +53,24 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 ## Education
 
 **Makers Academy (March 2019 - Present)**
-
-Makers Academy is widely regarded as the #1 coding bootcamp in Europe. It takes in motivated but unskilled students and after 12 weeks turns out coders who take jobs as Junior Full Stack Developers at leading Tech firms.
-
-The course focuses on self-driven learning, allowing maximum flexibility in the curriculum and allowing the student to drive their progression. It follows underlying frameworks such as TDD, Single Responsibility Principle, and Agile methodologies.
-
-- Frameworks: Object Oriented Programming, Test Driven Development, Model View Controller architecture pattern, Domain Driven Design models
-- Methodologies: Agile
-- Languages: Ruby, Ruby on Rails, Javascript, CSS
-- Testing Frameworks: RSpec, Jasmine
+- Makers Academy is widely regarded as the #1 coding bootcamp in Europe. It takes in motivated but unskilled students and after 12 weeks turns out coders who take jobs as Junior Full Stack Developers at leading Tech firms.
+- The course focuses on self-driven learning, allowing maximum flexibility in the curriculum and allowing the student to drive their progression. It follows underlying frameworks such as TDD, Single Responsibility Principle, and Agile methodologies.
+  - Frameworks: Object Oriented Programming, Test Driven Development, Model View Controller architecture pattern, Domain Driven Design models
+  - Methodologies: Agile
+  - Languages: Ruby, Ruby on Rails, Javascript, CSS
+  - Testing Frameworks: RSpec, Jasmine
 
 **Amazon Web Services, re:Start Programme (February 2019 - March 2019)**
-
-Fundamentals in Agile Methodology, SQL and Python, Digital Web Development, Linux System, and Cloud Computing.
-
-It is a course designed around easing the transition from the military into tech. It provided a working knowledge of DevOps process and AWS Cloud Services, as well as an insight into Cyber Security and AGILE methodologies.
+- Fundamentals in Agile Methodology, SQL and Python, Digital Web Development, Linux System, and Cloud Computing.
+- It is a course designed around easing the transition from the military into tech. It provided a working knowledge of DevOps process and AWS Cloud Services, as well as an insight into Cyber Security and AGILE methodologies.
 
 **Royal Military Academy Sandhurst, Regular Commissioning Course (Jan '13 - Apr '14)**
-
-Focus on Leadership, Strategy & Planning, International Relations, War Studies and Ethics.
-
-Completed the course within the top third of graduates.
+- Focus on Leadership, Strategy & Planning, International Relations, War Studies and Ethics.
+- Completed the course within the top third of graduates.
 
 **University of Leeds, BEng Civil Engineering (Jul '08 - Jun '12)**
-
-During my time at the University of Leeds, I engaged in a broad based Civil Engineering degree for my first two years before specialising in Geotechnics for my finals.
-
-The broad nature of the degree provided a wide knowledge of not only engineering practices but enhanced analytic abilities across multiple projects. We used AutoCAD software throughout to plan projects.
+- During my time at the University of Leeds, I engaged in a broad based Civil Engineering degree for my first two years before specialising in Geotechnics for my finals.
+- The broad nature of the degree provided a wide knowledge of not only engineering practices but enhanced analytic abilities across multiple projects. We used AutoCAD software throughout to plan projects.
 
 ## Experience
 
