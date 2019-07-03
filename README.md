@@ -1,4 +1,4 @@
-<p align="center"><img src="./images/arbuthnott_head_shot.png" alt="portrait" width="200"/></p>
+<p align="center"><img src="./images/arbuthnott_head_shot.png" alt="portrait" width="250"/></p>
 
 # Magnus Arbuthnott
 
