@@ -59,7 +59,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
   - Object Oriented Programming
   - Test Driven Development
   - Model View Controller architecture pattern
-  - Domain Driven Design models.
+  - Domain Driven Design models
 - Methodologies:
   - Agile
 - Languages:
