@@ -44,20 +44,11 @@ I am looking for a role where I can pursue the technical skills I have gained at
 - Graded within the top 10% of a 60-person course in which the focus was to identify and deconstruct varied business problems with intelligence led solutions.
 
 **Solutions Orientated**
-- Improved senior stakeholders ability to plan and synchronise multiple events with ease and increased attendance on career courses by 20% through identifying areas of weakness and implementing change within the digital planning processes of a 90-person organisation.
+- Improved senior stakeholders ability to plan and synchronise multiple events with ease and facilitated a 20% increase in career course attendance by identifying areas of weakness and implementing change within the digital planning processes of a 90-person organisation.
 - Managed an £80k adventurous training fund over an 18 month period, maximised training value by the analysis of all spending.
 
 **Operations Management**
 - Operations officer for a 90-person organisation over an 18 month period, responsible for the full spectrum of operational functions from management, process improvement, compliance through to strategic planning and development.
-
-<!-- #### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.) -->
 
 ## Education
 
@@ -97,4 +88,4 @@ Qualified 3 commercial banks as prospects and involved with the progression of 1
 
 ## Personal
 
-A Scottish bagpiper who features at weddings. An avid cyclist who has completed a number of unsupported distance expeditions in Europe. A keen sportsman who has set up and captained an intramural rugby team and founded a charitable rugby tournament while at university. A skier who has raced competitively with the British Army. Has a passion for travel. Enjoys reading biographies and historical documentaries.
+A Scottish bagpiper who features at weddings. An avid cyclist who has completed a number of unsupported distance expeditions in Europe. A keen sportsman who has set up and captained an intramural rugby team and founded a charitable rugby tournament while at university. A skier who has raced competitively with the British Army. Loves getting away to do some travelling.
