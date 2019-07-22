@@ -15,7 +15,7 @@ Analytically minded and solution driven Junior Developer with over five years' e
 
 **Background**
 
-After graduating from the University of Leeds with a degree in Civil Engineering, I spent a year at Sandhurst before taking up various team lead positions over the course of four further years in the Army. Between leaving and now I have worked as a business development intern at a flourishing RegTech consultancy and have attended the AWS veterans re:Start program, with a focus of moving veterans on moving veterans into tech.
+After graduating from the University of Leeds with a degree in Civil Engineering, I spent a year at Sandhurst before taking up various team lead positions over the course of four further years in the Army. Between leaving and now I have worked as a business development intern at a flourishing RegTech consultancy and have attended the AWS veterans re:Start program, with a focus of moving veterans into tech.
 
 **Aspirations**
 
