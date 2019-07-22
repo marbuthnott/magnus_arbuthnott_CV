@@ -8,7 +8,7 @@
 <a href="https://sourcerer.io/marbuthnott"><img src="https://img.shields.io/badge/JavaScript-60%20commits-blue.svg" alt=""></a>
 <a href="https://sourcerer.io/marbuthnott"><img src="https://img.shields.io/badge/SQL-48%20commits-blue.svg" alt=""></a>
 <a href="https://sourcerer.io/marbuthnott"><img src="https://img.shields.io/badge/CSS-85%20commits-blue.svg" alt=""></a>
-<a href="https://sourcerer.io/marbuthnott"><img src="https://img.shields.io/badge/C#-48%20commits-blue.svg" alt=""></a>
+<a href="https://sourcerer.io/marbuthnott"><img src="https://img.shields.io/badge/CSharp-48%20commits-blue.svg" alt=""></a>
 
 **Introduction**
 
