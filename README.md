@@ -74,7 +74,7 @@ I am looking for a role where I can pursue the technical skills I have gained at
 
 ## Experience
 
-**Veritass Consulting (Oct '18 - Mar '18)**
+**Veritass Consulting (Oct '18 - Mar '19)**
 *Business Development Internship*
 - Responsible for researching and qualifying new leads for a RegTech consultancy in the early stages of its development.
 - Progressed 2 SaaS startups from cold lead to onboarding for use as regulatory platforms.
