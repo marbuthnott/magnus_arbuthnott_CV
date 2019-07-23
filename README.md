@@ -42,7 +42,7 @@ I am looking for a role where I can pursue the technical skills I have gained at
 - Experience in developing close working relationships with a wide variety of individuals from various backgrounds. 4 weeks working with the Kenyan Defence Force, 6 weeks with the Royal Army of Oman, and 6 weeks with US and Canadian Forces.
 
 **Analytical Skills**
-- Studying engineering at university has given me a strong grounding in numerical reasoning within a highly practical environment; this formed the ground work of my pursuit of a career in software engineering, i.e. the practice of building something through logic.
+- Studying engineering at university has given me a strong grounding in numerical reasoning within a highly practical environment; this formed the ground work in my pursuit of a career in software engineering, i.e. the practice of building something through logic.
 - Graded within the top 10% of a 60-person course in which the focus was to identify and deconstruct varied business problems with intelligence led solutions.
 
 **Solutions Orientated**
