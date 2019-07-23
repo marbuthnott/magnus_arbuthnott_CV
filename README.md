@@ -90,4 +90,4 @@ Qualified 3 commercial banks as prospects and involved with the progression of 1
 
 ## Personal
 
-A Scottish bagpiper who features at weddings. An avid cyclist who has completed a number of unsupported distance expeditions in Europe. A keen sportsman who has set up and captained an intramural rugby team and founded a charitable rugby tournament while at university. A skier who has raced competitively with the British Army. Loves getting away to do some travelling.
+A Scottish bagpiper who features at weddings. A keen sportsman, from cycling Europe to captaining a charitable rugby team, and onto competitve ski racing I'm ready to try my hand at anything with an element of adventure. I am lucky enough to be a fellow at the Royal Geographical Society where I go for a weekly kick of inspiration. An avid podcast listener, particular favourites include *Clockwise*, *The Indicator*, and NPR's *How I Built This*.
