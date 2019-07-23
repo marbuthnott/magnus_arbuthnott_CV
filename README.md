@@ -90,4 +90,4 @@ Qualified 3 commercial banks as prospects and involved with the progression of 1
 
 ## Personal
 
-A Scottish bagpiper who features at weddings. A keen sportsman, from cycling Europe to captaining a charitable rugby team, and onto competitve ski racing I'm ready to try my hand at anything with an element of adventure. I am lucky enough to be a fellow at the Royal Geographical Society where I go for a weekly kick of inspiration. An avid podcast listener, particular favourites include *Clockwise*, *The Indicator*, and NPR's *How I Built This*.
+A Scottish bagpiper who features at weddings. A keen sportsman; from cycling Europe to captaining a charitable rugby team, and onto competitve ski racing I'm ready to try my hand at anything with an element of adventure. I am lucky enough to be a fellow at the Royal Geographical Society where I go for a weekly kick of inspiration. An avid podcast listener, particular favourites include *Clockwise*, *The Indicator*, and NPR's *How I Built This*.
