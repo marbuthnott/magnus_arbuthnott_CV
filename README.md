@@ -35,14 +35,14 @@ I am looking for a role where I can pursue the technical skills I have gained at
 
 ## Skills
 
+**Analytical Skills**
+- Studying engineering at university has given me a strong grounding in numerical reasoning within a highly practical environment; this formed the ground work in my pursuit of a career in software engineering, i.e. the practice of building something through logic.
+- Graded within the top 10% of a 60-person course in which the focus was to identify and deconstruct varied business problems with intelligence led solutions.
+
 **Relationship Management**
 - Worked closely with Saab Group Defence and Security and BAE Systems to design and run realistic training scenarios.
 - Graded within the top 30% of the Royal Military Academy Sandhurst’s commissioning course with a focus on leadership and people management.
 - Experience in developing close working relationships with a wide variety of individuals from various backgrounds. 4 weeks working with the Kenyan Defence Force, 6 weeks with the Royal Army of Oman, and 6 weeks with US and Canadian Forces.
-
-**Analytical Skills**
-- Studying engineering at university has given me a strong grounding in numerical reasoning within a highly practical environment; this formed the ground work in my pursuit of a career in software engineering, i.e. the practice of building something through logic.
-- Graded within the top 10% of a 60-person course in which the focus was to identify and deconstruct varied business problems with intelligence led solutions.
 
 **Solutions Orientated**
 - Improved senior stakeholders ability to plan and synchronise multiple events with ease and facilitated a 20% increase in career course attendance by identifying areas of weakness and implementing change within the digital planning processes of a 90-person organisation.
