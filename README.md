@@ -45,7 +45,7 @@ I am looking for a role where I can pursue the technical skills I have gained at
 - Experience in developing close working relationships with a wide variety of individuals from various backgrounds. 4 weeks working with the Kenyan Defence Force, 6 weeks with the Royal Army of Oman, and 6 weeks with US and Canadian Forces.
 
 **Solutions Orientated**
-- Improved senior stakeholders ability to plan and synchronise multiple events with ease and facilitated a 20% increase in career course attendance by identifying areas of weakness and implementing change within the digital planning processes of a 90-person organisation.
+- Improved senior stakeholders ability to plan and synchronise multiple events and facilitated a 20% increase in career course attendance by identifying areas of weakness and implementing change within the digital planning processes of a 90-person organisation.
 - Managed an £80k adventurous training fund over an 18 month period, maximised training value by the analysis of all spending.
 
 **Operations Management**
