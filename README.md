@@ -33,7 +33,6 @@ I am looking for a role where I can pursue the technical skills I have gained at
 | News Summary         | An app that grabs the headlines from the Guardian newspaper API and display them on a page. Clicking on a headline will show a summary of the article.                    | 2 Days        | Vanilla JavaScript, HTML, CSS                        | [Github](https://github.com/marbuthnott/news-summary-challenge) | Individual           |
 | Notebook             | A first venture into Vanilla JS to create a simple notebook where the user can create and store notes.                                                                    | 5 Days        | Vanilla JavaScript                                   | [Github](https://github.com/marbuthnott/notes_js)               | Group                |
 | Makers BnB           | A small Air BnB clone that allows users to advertise and book spaces.                                                                                                     | 5 Days        | Ruby, Sinatra, DataMapper, Rspec, Capybara           | [Github](https://github.com/marbuthnott/makers-bnb)             | Group                |
-| Chitter              | A small Twitter clone that will allow the users to post messages to a public stream.                                                                                      | 2 Days        | Ruby, Sinatra, SQL, RSpec, Capybara                  | [Github](https://github.com/marbuthnott/chitter-challenge)      | Individual           |
 
 ## Skills
 
