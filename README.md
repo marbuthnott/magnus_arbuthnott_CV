@@ -28,28 +28,28 @@ I am looking for a role where I can pursue the technical skills I have gained at
 |------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|------------------------------------------------------|-----------------------------------------------------------------|----------------------|
 | Hide And Go Beetroot | A virtual reality game where a player must navigate a maze and find the treasure before the time runs out.                                                                   | 10 Days        | C#, Unity Game Engine, Nunit, Google VR                  | [Github](https://github.com/marbuthnott/hide_and_go_beetroot)      | Group           |
 | Chitter              | A small Twitter clone that will allow the users to post messages to a public stream.                                                                                      | 2 Days        | Ruby, Sinatra, SQL, RSpec, Capybara                  | [Github](https://github.com/marbuthnott/chitter-challenge)      | Individual           |
+| assertEquals             | Implementing a comprehensive assertEquals test in JavaScript. Solving the problem of the recursive traversal through a deep object.                                                                  | 2 Days        | Vanilla JavaScript                                   | [Github](https://github.com/marbuthnott/assertEquals)               | Individual        |
 | Acebook D-Railed     | A facebook clone where a user can signup, write, update, and delete posts, and view posts from all users.                                                                 | 10 Days       | Ruby-on-Rails, HTML, CSS, Travis CI, RSpec, Capybara | [Github](https://github.com/marbuthnott/acebook-d-railed)       | Group                |
 | Bank Account         | A rapidly developed bank account app to practice development process and code quality with time pressure. Additionally it was a first venture into using Jest and ESLint. | 1/2 Day       | Javascript, Jasmine, Jest                            | [Github](https://github.com/marbuthnott/bank_account_challenge) | Individual           |
 | News Summary         | An app that grabs the headlines from the Guardian newspaper API and display them on a page. Clicking on a headline will show a summary of the article.                    | 2 Days        | Vanilla JavaScript, HTML, CSS                        | [Github](https://github.com/marbuthnott/news-summary-challenge) | Individual           |
 | Notebook             | A first venture into Vanilla JS to create a simple notebook where the user can create and store notes.                                                                    | 5 Days        | Vanilla JavaScript                                   | [Github](https://github.com/marbuthnott/notes_js)               | Group                |
 
-## Skills
+## Notable Skills & Achievements
 
-**Analytical Skills**
-- Studying engineering at university has given me a strong grounding in numerical reasoning within a highly practical environment; this formed the foundations of in my pursuit of a career in software engineering, i.e. the practice of building something through logic.
-- Graded within the top 10% of a 60-person course in which the focus was to identify and deconstruct varied business problems with intelligence led solutions.
+**Agile Project Execution and Delivery**
+- With out knowing it the majority of my military career has been centered around the foundations of the Agile framework, and having now had a formal introduction to it I am keen to apply it alongside all I have learnt over 5 years of people and project management in the military.
+- Led an 8-person team to plan and deliver an 8-month project to train 440 people for operations in Eastern Europe. The project centered around the host governments ever changing needs and translating those requirements into a human perspective which we could implement on the ground. The soldiers successfully deployed and gained international recognition for their work with Estonian Forces.
 
-**Relationship Management**
-- Worked closely with Saab Group Defence and Security and BAE Systems to design and run realistic training scenarios.
-- Graded within the top 30% of the Royal Military Academy Sandhurst’s commissioning course with a focus on leadership and people management.
-- Experience in developing close working relationships with a wide variety of individuals from various backgrounds. 4 weeks working with the Kenyan Defence Force, 6 weeks with the Royal Army of Oman, and 6 weeks with US and Canadian Forces.
-
-**Solutions Orientated**
+**Analytical & Solutions Orientated**
+- The focal point of my career has been my ability to architect solutions to complex problems and is now the driving force behind my pursuit of a career in software engineering.
+- Studying engineering at university has given me a wide knowledge engineering practices but enhanced analytic abilities across a multitude of projects. It has given me a strong grounding in numerical reasoning within a highly practical environment. It has given me a wide knowledge of engineering practices and has enhanced analytic abilities across a multitude of projects.
 - Improved senior stakeholders ability to plan and synchronise multiple events and facilitated a 20% increase in career course attendance by identifying areas of weakness and implementing change within the digital planning processes of a 90-person organisation.
-- Managed an £80k adventurous training fund over an 18 month period, maximised training value by the analysis of all spending.
 
-**Operations Management**
-- Operations officer for a 90-person organisation over an 18 month period, responsible for the full spectrum of operational functions from management, process improvement, compliance through to strategic planning and development.
+**Communication: Teamwork to operationalise technology**
+- One of the core skills I have developed over the course of my career has been to work alongside and lead some very talented teams who could operationalise technology in ways others could not.
+- Bridging the gap between technology in security by working alongside companies such as Saab Group Defence, Security and BAE Systems to design and run realistic training scenarios.
+- Graded within the top 30% of the Royal Military Academy Sandhurst’s commissioning course with a focus on leadership and people management.
+- 5 months work in a business development capacity for a fledgling FinTech consultancy. The aim of the consultancy was to bring the available SaaS platforms and financial world together. Successfully onboard 2 platforms and qualified 3 commercial banks as prospects.
 
 ## Education
 
