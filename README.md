@@ -5,10 +5,10 @@
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Personal](#personal) | [LinkedIn](https://www.linkedin.com/in/magnus-arbuthnott-04874a114/) | [Github](https://github.com/marbuthnott)
 
 <a href="https://sourcerer.io/marbuthnott"><img src="https://img.shields.io/badge/Ruby-229%20commits-blue.svg" alt=""></a>
-<a href="https://sourcerer.io/marbuthnott"><img src="https://img.shields.io/badge/JavaScript-60%20commits-blue.svg" alt=""></a>
+<a href="https://sourcerer.io/marbuthnott"><img src="https://img.shields.io/badge/JavaScript-87%20commits-blue.svg" alt=""></a>
 <a href="https://sourcerer.io/marbuthnott"><img src="https://img.shields.io/badge/SQL-48%20commits-blue.svg" alt=""></a>
 <a href="https://sourcerer.io/marbuthnott"><img src="https://img.shields.io/badge/CSS-85%20commits-blue.svg" alt=""></a>
-<a href="https://sourcerer.io/marbuthnott"><img src="https://img.shields.io/badge/CSharp-48%20commits-blue.svg" alt=""></a>
+<a href="https://sourcerer.io/marbuthnott"><img src="https://img.shields.io/badge/CSharp-96%20commits-blue.svg" alt=""></a>
 
 **Introduction**
 
