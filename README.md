@@ -38,7 +38,7 @@ I am looking for a role where I can pursue the technical skills I have gained at
 
 **Agile Project Execution and Delivery**
 - Without knowing it the majority of my military career has been centered around the foundations of the Agile framework, and having now had a formal introduction to it I am keen to apply it alongside all I have learnt over 5 years of people and project management in the military.
-- Led an 8-person team to plan and deliver an 8-month project to train 440 people for operations in Eastern Europe. The project centered around the host governments changing needs and translating those requirements into a human perspective which we could implement on the ground. The soldiers successfully deployed and gained international recognition for their work with Estonian Forces.
+- Led an 8-person team to plan and deliver an 8-month project to train 440 people for operations in Eastern Europe. The project centered around the host government's changing needs and translating those requirements into a human perspective which we could implement on the ground. The soldiers successfully deployed and gained international recognition for their work with Estonian Forces.
 
 **Communication: Teamwork to operationalise technology**
 - One of the core skills I have developed over the course of my career has been my ability to work alongside and lead some very talented teams to operationalise technology. I have worked alongside companies such as Saab Group Defence, Security and BAE Systems to design and run realistic training scenarios, and have successfully implemented technology upgrades to run effective communication channels within a 90-person organisation.
