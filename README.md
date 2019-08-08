@@ -40,16 +40,15 @@ I am looking for a role where I can pursue the technical skills I have gained at
 - With out knowing it the majority of my military career has been centered around the foundations of the Agile framework, and having now had a formal introduction to it I am keen to apply it alongside all I have learnt over 5 years of people and project management in the military.
 - Led an 8-person team to plan and deliver an 8-month project to train 440 people for operations in Eastern Europe. The project centered around the host governments changing needs and translating those requirements into a human perspective which we could implement on the ground. The soldiers successfully deployed and gained international recognition for their work with Estonian Forces.
 
+**Communication: Teamwork to operationalise technology**
+- One of the core skills I have developed over the course of my career has been my ability to work alongside and lead some very talented teams to operationalise technology. I have worked alongside companies such as Saab Group Defence, Security and BAE Systems to design and run realistic training scenarios, and have successfully implemented technology upgrades to run effective communication channels within a 90-person organisation.
+- Graded within the top 30% of the Royal Military Academy Sandhurst’s commissioning course with a focus on leadership and people management.
+- 5 months work in a business development capacity for a fledgling FinTech consultancy. The aim of the consultancy was to bring SaaS platforms and the financial world together. Successfully onboarded 2 regulatory platforms and qualified 3 commercial banks as prospects.
+
 **Analytical & Solutions Orientated**
 - The focal point of my career has been my ability to architect solutions to complex problems and is now the driving force behind my pursuit of a career in software engineering.
-- Studying engineering at university has given me a wide knowledge engineering practices but enhanced analytic abilities across a multitude of projects. It has given me a strong grounding in numerical reasoning within a highly practical environment. It has given me a wide knowledge of engineering practices and has enhanced analytic abilities across a multitude of projects.
 - Improved senior stakeholders ability to plan and synchronise multiple events and facilitated a 20% increase in career course attendance by identifying areas of weakness and implementing change within the digital planning processes of a 90-person organisation.
-
-**Communication: Teamwork to operationalise technology**
-- One of the core skills I have developed over the course of my career has been to work alongside and lead some very talented teams who could operationalise technology in ways others could not.
-- Bridging the gap between technology in security by working alongside companies such as Saab Group Defence, Security and BAE Systems to design and run realistic training scenarios.
-- Graded within the top 30% of the Royal Military Academy Sandhurst’s commissioning course with a focus on leadership and people management.
-- 5 months work in a business development capacity for a fledgling FinTech consultancy. The aim of the consultancy was to bring the available SaaS platforms and financial world together. Successfully onboard 2 platforms and qualified 3 commercial banks as prospects.
+- Over 4 years planned and delivered a number of brand promotion events for the Scots Guards and redefined their 3 week summer recruitment drive, resulting in a 30% increase in potential recruit sign-up.
 
 ## Education
 
