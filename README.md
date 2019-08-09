@@ -42,7 +42,6 @@ I am looking for a role where I can pursue the technical skills I have gained at
 
 **Communication: Teamwork to operationalise technology**
 - One of the core skills I have developed over the course of my career has been my ability to work with talented teams to operationalise technology. I have worked alongside companies such as Saab Group Defence, Security and BAE Systems to design and run multiple training scenarios, and have successfully implemented technology upgrades to run effective communication channels within a 90-person organisation.
-- Graded within the top 30% of the Royal Military Academy Sandhurst’s commissioning course with a focus on leadership and people management.
 - 5 months work in a business development capacity for a fledgling FinTech consultancy with the aim of bringing SaaS platforms and the financial world together. Successfully onboarded 2 regulatory platforms and qualified 3 commercial banks as prospects.
 
 **Analytical & Solutions Orientated**
