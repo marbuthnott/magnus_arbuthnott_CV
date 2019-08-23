@@ -52,7 +52,7 @@ I am looking for a role where I can pursue the technical skills I have gained at
 ## Education
 
 **Makers Academy (March 2019 - Present)**
-- Makers Academy is widely regarded as the #1 coding bootcamp in Europe. It takes in motivated but unskilled students and after 12 weeks turns out coders who take jobs as Junior Full Stack Developers at leading Tech firms.
+- Makers Academy is widely regarded as the #1 coding bootcamp in Europe. It takes in motivated but unskilled students and after 12 weeks turns out coders who take jobs as Software Engineers at leading Tech firms.
 - The course focuses on self-driven learning, allowing maximum flexibility in the curriculum and allowing the student to drive their progression. It follows underlying frameworks such as TDD, Single Responsibility Principle, and Agile methodologies.
   - Frameworks: Object Oriented Programming, Test Driven Development, Model View Controller architecture pattern, Domain Driven Design models
   - Methodologies: Agile
