@@ -12,7 +12,7 @@
 
 **Introduction**
 
-Analytically minded and solution driven Junior Developer with over five years' experience within the Armed Forces.
+Analytically minded and solution driven Developer with over five years' experience within the Armed Forces.
 
 **Background**
 
