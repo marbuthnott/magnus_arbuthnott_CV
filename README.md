@@ -47,7 +47,7 @@ I am looking for a customer focused role where I can pursue the technical skills
 
 **Relationship Management**
 - Empathetic people management was crucial to my success in the British Army.
-- Managed a 30-person platoon over my first two years and worked with a variety of senior managers in a number of demanding situations over the remainder, in particular US and Canadian Forces, the Royal Army of Oman, and the Kenyan Defence Force.
+- Managed a 30-person platoon over my first two years and worked with a variety of senior managers in a number of demanding situations over the remainder, in particular, US and Canadian Forces, the Royal Army of Oman, and the Kenyan Defence Force.
 
 **Agile Project Execution and Delivery**
 - The majority of my military career has been centered around the foundations of the Agile framework, and having now had a formal introduction to it I am keen to apply it alongside all I have learnt over 5 years of people and project management in the military.
