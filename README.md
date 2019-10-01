@@ -60,7 +60,8 @@ I am looking for a role where I can pursue the technical skills I have gained at
 - The course focuses on self-driven learning, allowing maximum flexibility in the curriculum and allowing the student to drive their progression. It follows underlying frameworks such as TDD, Single Responsibility Principle, and Agile methodologies.
   - Frameworks: Object Oriented Programming, Test Driven Development, Model View Controller architecture pattern, Domain Driven Design models
   - Methodologies: Agile
-  - Languages: Ruby, Ruby on Rails, Javascript, CSS
+  - Languages: JavaScript, Ruby, CSS, HTML
+  - Framewords: React, React Native, Ruby-on-Rails
   - Testing Frameworks: RSpec, Jasmine
 
 **Amazon Web Services, re:Start Programme (February 2019 - March 2019)**
