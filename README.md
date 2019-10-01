@@ -20,7 +20,7 @@ After graduating from the University of Leeds with a degree in Civil Engineering
 
 **Aspirations**
 
-I am looking for a role where I can pursue the technical skills I have gained at Makers Academy, consolidate my programming knowledge, and gain exposure to product management and business strategy.
+I am looking for a role where I can pursue the technical skills I have gained at Makers Academy and continue to gain exposure to customer success and business strategy.
 
 ## Projects
 
